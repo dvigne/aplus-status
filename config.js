@@ -3,6 +3,7 @@ module.exports = {
   "name": "a_plus_environmental_restoration_core_services_status_page",
   "description": "Incident Status, Notifications, and Reporting for A Plus Environmental Restoration",
   "defaultLocale": "en",
+  "baseUrl": "https://status.aperllc.com",
   "locales": [
     {
       "code": "en",
@@ -17,8 +18,9 @@ module.exports = {
       "Main WebPage",
       "Snipe-It",
       "Mattermost",
-      "Single Sign-On",
-      "Mail Delivery and Relay",
+      "VPN",
+      "SSO",
+      "Mail",
       "Infrastructure"
     ],
   }
