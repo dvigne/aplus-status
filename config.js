@@ -15,7 +15,7 @@ module.exports = {
   "content": {
     "frontMatterFormat": "yaml",
     "systems": [
-      "Main WebPage",
+      "Main Webpage",
       "Snipe-It",
       "Mattermost",
       "VPN",

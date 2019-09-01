@@ -3,8 +3,8 @@
   "description": "Incident Status, Notifications, and Reporting for A Plus Environmental Restoration",
   "systems": {
     "items": {
-      "Main WebPage": {
-        "title": "Main WebPage"
+      "Main Webpage": {
+        "title": "Main Webpage"
       },
       "Snipe-It": {
         "title":"Snipe-It"
