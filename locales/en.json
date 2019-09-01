@@ -12,10 +12,13 @@
       "Mattermost": {
         "title": "Mattermost"
       },
-      "Single Sign-On": {
+      "VPN": {
+        "title": "VPN and Remote Access Services"
+      },
+      "SSO": {
         "title": "Single Sign-On"
       },
-      "Mail Delivery and Relay": {
+      "Mail": {
         "title": "Mail Delivery and Relay"
       },
       "Infrastructure": {
