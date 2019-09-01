@@ -1,0 +1,27 @@
+{
+  "title": "A Plus Environmental Restoration Core Services Status Page",
+  "description": "Incident Status, Notifications, and Reporting for A Plus Environmental Restoration",
+  "systems": {
+    "items": {
+      "Main WebPage": {
+        "title": "Main WebPage"
+      },
+      "Snipe-It": {
+        "title":"Snipe-It"
+      },
+      "Mattermost": {
+        "title": "Mattermost"
+      },
+      "Single Sign-On": {
+        "title": "Single Sign-On"
+      },
+      "Mail Delivery and Relay": {
+        "title": "Mail Delivery and Relay"
+      },
+      "Infrastructure": {
+        "title": "Infrastructure",
+        "description": "Wireless Networking, Internet Gateway, and Threat Management Systems"
+      }
+    }
+  }
+}
