@@ -11,7 +11,8 @@
     "generate": "statusfy generate",
     "new-incident": "statusfy new-incident",
     "delete-incident": "statusfy delete-incident",
-    "update-incident": "statusfy update-incident"
+    "update-incident": "statusfy update-incident",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "statusfy": "^0.4.3"
@@ -19,5 +20,8 @@
   "engines": {
     "node": ">=8.10",
     "npm": ">=5"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
